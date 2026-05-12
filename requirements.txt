@@ -1,0 +1,11 @@
+langchain-community
+chromadb
+duckduckgo-search
+gradio
+langchain
+langchain-google-genai
+pypdf
+langchain-text-splitters
+pydantic
+python-dotenv
+streamlit
