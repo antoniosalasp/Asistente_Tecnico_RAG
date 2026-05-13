@@ -3,7 +3,7 @@
 
 # Base de datos vectorial y documentos locales
 db_storage/
-documents/
+
 __pycache__/
 
 # Entornos virtuales
